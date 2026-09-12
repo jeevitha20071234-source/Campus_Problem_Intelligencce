@@ -1,1 +1,1 @@
-# Campus_Problem_Intelligencce
+# Campus_Problem_Intelligence
